@@ -1,0 +1,29 @@
+<!DOCYTIPE>
+<html>
+<head> Reproductor de Video </head>
+<body>
+<table> 
+<tr>
+&nbsp;<td> <video src=" VID-20140111-WA0008.mp4 " controls loop>
+  </video> </td>
+&nbsp;<td>  <video src=" VID-20140111-WA0008.mp4 " controls loop>
+  </video> </td>
+&nbsp;
+</tr>
+</tr>
+&nbsp;<td>  <video src=" VID-20140111-WA0008.mp4 " controls loop>
+  </video> </td>
+&nbsp;<td> <video src=" VID-20140111-WA0008.mp4 " controls loop>
+  </video> </td>
+&nbsp;
+</tr> 
+</tr>   
+&nbsp;<td>  <video src=" VID-20140111-WA0008.mp4 " controls loop>
+  </video> </td>
+&nbsp;<td>  <video src=" VID-20140111-WA0008.mp4 " controls loop>
+  </video>  </td> 
+&nbsp;                  
+</table> 
+
+</body>
+</html>
