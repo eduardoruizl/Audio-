@@ -1,0 +1,85 @@
+<!DOCYTIPE>
+<html>
+<head> Reproductor de Audio </head>
+<body>
+	<br/> <table> Lista De Reproduccion
+<table> 
+<tr>
+&nbsp;<td> Titulo </td>
+&nbsp;<td> Artista </td>
+&nbsp;<td> Pista </td>
+&nbsp;
+</tr>
+</tr>
+&nbsp;<td> Chaparrita </td>
+&nbsp;<td> Meny Mendez  </td>
+&nbsp;<td> <audio src=" Meny Mendez - Chaparrita.mp3 " controls loop>
+  </audio> </td>
+&nbsp;
+</tr> 
+</tr>
+&nbsp;<td> Nada Mas </td>   
+&nbsp;<td> Golden Ganga </td>
+&nbsp;<td> <audio src=" 2. Nada Mas.mp3 " controls loop>
+  </audio>  </td> 
+&nbsp;                  
+</tr> 
+</tr>
+&nbsp;<td> Nadie Como tu </td>   
+&nbsp;<td> Mrrike </td>
+&nbsp;<td> <audio src=" Nadie como Tu - Mrrike.mp3 " controls  loop>
+  </audio></td> 
+&nbsp; 
+</tr> 
+</tr>
+&nbsp;<td> Bohemio Loco </td>   
+&nbsp;<td> Calibre 50 </td>
+&nbsp;<td> <audio src=" 04   Bohemio Loco   Calibre 50   El Buen Ejemplo (   El Buen Ejemplo.mp3 " controls loop>
+  </audio> </td> 
+&nbsp; 
+</tr> 
+</tr>
+&nbsp;<td> Aire </td>   
+&nbsp;<td> Goldn Ganga </td>
+&nbsp;<td> <audio src=" Aire Golden Ganga.mp3 " controls loop>
+  </audio> </td> 
+&nbsp;   
+</tr> 
+</tr>
+&nbsp;<td> No Te Olvido </td>   
+&nbsp;<td> Arthur </td>
+&nbsp;<td> <audio src=" Arthur - No Te Olvido MP3.mp3 " controls  loop>
+  </audio> </td> 
+&nbsp; 
+</tr> 
+</tr>
+&nbsp;<td> C-Kan </td>   
+&nbsp;<td> Nada Mas </td>
+&nbsp;<td> <audio src=" C KAN FT SANTA RM  - Nada mas.mp3 " controls loop>
+  </audio> </td> 
+&nbsp; 
+</tr> 
+</tr>
+&nbsp;<td> Muerte En Hawai </td>   
+&nbsp;<td> Calle 13 </td>
+&nbsp;<td> <audio src=" Calle 13 - Muerte En Hawaii.mp3 " controls loop>
+  </audio> </td> 
+&nbsp; 
+</tr> 
+</tr>
+&nbsp;<td> C-Kan </td>   
+&nbsp;<td> Nada Mas </td>
+&nbsp;<td> <audio src=" C-KAN - Dejame Conocerte.mp3 " controls  loop>
+  </audio> </td> 
+&nbsp; 
+</tr> 
+</tr>
+&nbsp;<td> Jeral La Voz </td>   
+&nbsp;<td> Cuentale </td>
+&nbsp;<td> <audio src=" Jeral la Voz - Cuentale.mp3 " controls loop>
+  </audio> </td> 
+&nbsp; 
+</table> 
+
+</body>
+</html>
